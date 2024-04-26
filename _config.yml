@@ -1,0 +1,16 @@
+title: <p align="center"> Olga Gavrik </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/olgagavrik/">LinkedIn</a> |
+  <a href="https://github.com/olgagavrik">GitHub</a>
+  </p>
+  
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=700&size=22&pause=1000&color=500000&center=true&vCenter=true&width=450&lines=Hi+Everyone!+%F0%9F%91%8B;Welcome+to+my+portfolio+website!" alt="Typing SVG" />
+  <br />
+  
+theme: jekyll-theme-minimal
+google_analytics:  # Google Analytics tracking ID
