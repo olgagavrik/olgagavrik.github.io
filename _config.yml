@@ -1,16 +1,11 @@
-title:Olga  Gavrik 
+title: Olga  Gavrik 
 
-logo:/images/picture.png
+logo: /images/picture.png
 
 description:
  <a href="https://www.linkedin.com/in/olga-gavrik-87871a2b4">LinkedIn</a> |
  <a href="https://github.com/olgagavrik">GitHub</a>
  
-  
- 
- <img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=700&size=22&pause=1000&color=500000&center=true&vCenter=true&width=450&lines=Hi+Everyone!+%F0%9F%91%8B;Welcome+to+my+portfolio+website!" alt="Typing SVG" />
- <br />
-
 
 theme: jekyll-theme-minimal
 colors:
