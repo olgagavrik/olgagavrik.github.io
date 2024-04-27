@@ -1,6 +1,6 @@
 title:Olga  Gavrik 
 
-   logo:/images/picture.png
+logo:/images/picture.png
 
 description:
  <a href="https://www.linkedin.com/in/olga-gavrik-87871a2b4">LinkedIn</a> |
@@ -13,4 +13,5 @@ description:
 
 
 theme: cayman
-
+colors:
+  crimson: '#900C3F'
