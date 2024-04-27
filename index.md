@@ -1,8 +1,6 @@
 <center><h1>Portfolio</h1></center>
 
-```sql
-SELECT * FROM sections
-```
+
 
 - [Project 1](#project )
 - [Project 2](#project)
