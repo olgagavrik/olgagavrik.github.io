@@ -10,10 +10,8 @@
 
 ### Project 1
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)
-
-<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/projects/DS004.jpg" alt="Nombre de proyecto">
+[Project 1 Title](/sample_page)
+<img src="images/projects/DS004.jpg?raw=true"/>
 
 
 
