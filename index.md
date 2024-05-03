@@ -13,7 +13,7 @@
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)
 
-
+<img src ="https://github.com/olgagavrik/ImagesAI/blob/main/Fibonacci/Fibonacci011.jpg" alt="Nombre de proyecto">
 
 
 
@@ -23,15 +23,17 @@
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)
 
+<img src ="https://github.com/olgagavrik/ImagesAI/blob/main/ML/ML003.jpg" alt="Nombre de proyecto">
 
-
+---
 ### Project 3
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)
 
+<img src ="https://github.com/olgagavrik/ImagesAI/blob/main/DS/DS034.jpg" alt="Nombre de proyecto">
 
---
+---
 ### Project 4
 
 [![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/olgagavrik/path.pdf)
@@ -41,7 +43,7 @@
 
 <p style="color:#727272"> Resumen corto.</p>
 
-<img src ="./images/projects/file_name.png" alt="Nombre de proyecto">
+<img src ="https://github.com/olgagavrik/ImagesAI/blob/main/DS/DS035.jpg" alt="Nombre de proyecto">
 
 ---
 ### Project 5
