@@ -1,6 +1,8 @@
 <center><h1>Portfolio</h1></center>
 
+### This portfolio is currently still being developed.
 
+Thanks for your patience – please check back soon to see updates!
 
 - [Project 1](project )
 - [Project 2](project)
